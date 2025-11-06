@@ -1,1 +1,30 @@
+[
+  {
+    "term": "print()",
+    "category": "built-in function",
+    "description": "Gibt Text oder Variableninhalte in der Konsole aus.",
+    "syntax": "print(obj, ..., sep=' ', end='\\n')",
+    "example": "print('Hallo Welt')",
+    "notes": "Mehrere Werte können mit Kommata getrennt ausgegeben werden.",
+    "source": "https://docs.python.org/3/library/functions.html#print"
+  },
+  {
+    "term": "if-statement",
+    "category": "control flow",
+    "description": "Führt Code nur aus, wenn eine Bedingung wahr ist.",
+    "syntax": "if condition:\n    # Codeblock",
+    "example": "if x > 0:\n    print('Positiv')",
+    "notes": "Kann mit else und elif kombiniert werden.",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#if-statements"
+  },
+  {
+    "term": "for-loop",
+    "category": "iteration",
+    "description": "Wiederholt Anweisungen für jedes Element einer Sequenz.",
+    "syntax": "for element in iterable:\n    # Codeblock",
+    "example": "for i in range(5):\n    print(i)",
+    "notes": "Kann mit else kombiniert werden, das nach Abschluss der Schleife ausgeführt wird.",
+    "source": "https://docs.python.org/3/tutorial/controlflow.html#for-statements"
+  }
+]
 
