@@ -1,1 +1,18 @@
+[
+  {
+    "term": "print",
+    "description": "Gibt Text oder Variableninhalte in der Konsole aus.",
+    "example": "print('Hallo Welt!')"
+  },
+  {
+    "term": "Kommentare",
+    "description": "Kommentare werden mit einem # eingeleitet und vom Interpreter ignoriert.",
+    "example": "# Dies ist ein Kommentar"
+  },
+  {
+    "term": "Einschub (Indentation)",
+    "description": "In Python werden Codeblöcke durch Einrückung definiert, nicht durch geschweifte Klammern.",
+    "example": "if True:\n    print('Eingerückt = gehört zum if-Block')"
+  }
+]
 
